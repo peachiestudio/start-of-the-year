@@ -1,8 +1,12 @@
+p {
+	color: white
+}
+
+
+
 .col {
 	background-color: grey ;
 	border:  2px solid black;
 }
 
-.class {
-	color: white;
-}
+
